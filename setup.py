@@ -74,5 +74,5 @@ setup(
         "Bug Reports": "https://github.com/easlice/bandcamp-downloader/issues",
         "Source": "https://github.com/easlice/bandcamp-downloader",
     },
-    scripts=['bandcamp-downloader.py']
+    scripts=['bandcamp-downloader']
 )
